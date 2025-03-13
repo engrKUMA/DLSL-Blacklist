@@ -1,6 +1,5 @@
 # Title: DLSL-Blacklist by Alfred
 
-0.0.0.0 www.okbet.com
-
-#regex testing
+#abp-sytle
 ||netflix.com^
+||okbet.com^
