@@ -3,4 +3,4 @@
 0.0.0.0 www.okbet.com
 
 #regex testing
-0.0.0.0 netflix.com^
+||netflix.com^
