@@ -3,3 +3,4 @@
 #abp-sytle
 ||netflix.com^
 ||okbet.com^
+||bilibili.tv^
