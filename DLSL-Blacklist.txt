@@ -1,4 +1,4 @@
-# Title: StevenBlack/hosts
+# Title: DLSL-Blacklist by Alfred
 
 0.0.0.0 www.okbet.com
 
